@@ -1,4 +1,4 @@
-.input{
+.select{
     border: 1px solid #4A4949;
     border-radius: 8px;
     padding: 16px 8px;
@@ -9,6 +9,6 @@
     color: #FFFFFF;
 }
 
-.input::placeholder{
-    color: #4A4949;
+.select option{
+    background: transparent;
 }
